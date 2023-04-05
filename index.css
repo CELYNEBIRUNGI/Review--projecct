@@ -22,3 +22,12 @@ div {
   max-width: 800px;
   height: 500px;
 }
+
+.history {
+  margin-bottom: 1.5%;
+  margin-top: 2%;
+  color: #1a1b1c;
+  font-style: normal;
+  flex: none;
+  flex-grow: 0;
+}
